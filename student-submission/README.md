@@ -12,7 +12,7 @@ Lama Alqarani
 
 ## Problem Statement
 Meeting notes are often unorganized, which can lead to missed decisions, unclear tasks, and forgotten deadlines. This assistant helps organize meeting notes into clear summaries, decisions, action items, and follow-up messages.
-
+This assistant also helps save time after meetings by organizing information quickly and clearly.
 ## Target Users
 Employees, team leaders, project managers, and administrative assistants who need to organize meeting notes and follow up on tasks and decisions.
 
@@ -24,6 +24,8 @@ Context: You will receive a CSV file containing meeting notes, tasks, responsibl
 Task: Analyze the file and identify the meeting summary, key decisions, action items, responsible persons, deadlines, open questions, and a short professional follow-up message.
 
 Do not invent any missing information. If a responsible person or deadline is not provided, write “Not specified.”
+
+Use only information available in the uploaded CSV file.
 
 Format: Organize the output into the following sections:
 
