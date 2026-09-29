@@ -2,7 +2,7 @@
 
 ## Project Name
 Smart Meeting Follow-up Assistant
-
+Lama ALqarani 
 ## Idea Selected
 
 1. Meeting Follow-up Assistant
@@ -91,7 +91,8 @@ This project helped me understand how generative AI can be used to improve workp
 I learned that using a clear R-C-T-F prompt helps the AI produce more organized, accurate, and useful results.
 
 The Meeting Follow-up Assistant was able to analyze meeting data from a CSV file and convert it into a summary, key decisions, action items, open questions, and a professional follow-up message.
-
+I also learned the importance of protecting sensitive data and reviewing AI-generated outputs before using or sharing them.
 In the future, this project could be improved by connecting it to meeting tools so that meeting notes can be processed automatically.
-## Reference
-SDAIA Academy GitHub: https://github.com/SDAIAAcademy
+
+## SDAIA Academy
+GitHub: https://github.com/SDAIAAcademy
