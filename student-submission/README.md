@@ -1,8 +1,10 @@
 # My Final Project
 
 ## Project Name
+
 Smart Meeting Follow-up Assistant
-Lama ALqarani 
+
+Lama Alqarani
 ## Idea Selected
 
 1. Meeting Follow-up Assistant
